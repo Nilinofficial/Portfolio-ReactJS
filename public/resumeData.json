@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Nilin Jacob",
+    "occupation": "ReactJS developer",
+    "description": "I eat, sleep and breathe React",
+    "image": "Nilindp.png",
+    "bio": "Hi there! I am Nilin! , a web developer with 1 year of experience in HTML,css and javascript and 4 months of experience in ReactJs. I am very much passionate in coding and i strongly believe that hardworking overcomes talent.   ",
+    "email": "itsmenilin@gmail.com",
+    "phone": "+91 8592050490",
+    "address": {
+      "street": "Painumkal (h), Manarcadu",
+      "city": "Kottayam",
+      "state": "Kerala",
+      "zip": "686019",
+      "country" : "India"
+    },
+    
+    "social": [
+     
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/nilin.jacob.5/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/nilin-jacob-4204391a8/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/its_me_nilin_/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Nilinofficial",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+         "id":1,
+        "college": "Mangalam College of Engineering, Ettumanoor,Kottayam",
+        "degree": "Bachelor's Degree, Electrical and Electronics Engineering",
+        "graduated": "2017 - 2021",
+        "description": ""
+      },
+      {
+        "id":2,
+        "school": "St Marys HSS, Manarcadu",
+        "degree": "Higher Secondary",
+        "graduated": "2015 - 2017",
+        "description": "80 %"
+      }
+      
+    ],
+    "work": [
+      {
+        "company": "Erstellen",
+        "title": "Founder ",
+        "years": "April 2021 - Present",
+        "description": "        A Freelance web development Company.    "
+      }
+    ],
+    "youtube": [
+      {
+        "channel": "Erstellen Codes",
+        "title": "Founder ",
+        "years": "July 2021 - Present",
+        "description": "Tech and coding channel"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "C",
+        "level": "35%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "75%"
+      },
+      {
+        "name": "Web Development",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Netflix Clone",
+        "category": "",
+        "image": "Screenshot (70).png",
+        "url": "https://netflix-clone-ef336.web.app/"
+      },
+      {
+        "title": "OlX clone",
+        "category": "",
+        "image": "Screenshot (71).png",
+        "url": "https://olx-clone-7fe7d.web.app/"
+      },
+      {
+        "title": "Instagram clone",
+        "category": "",
+        "image": "Screenshot (72).png",
+        "url": "https://instagram-clone-3e9f7.web.app/"
+      },
+      {
+        "title": "Serial Actress Maneesha Mahesh's Personal website",
+        "category": "",
+        "image": "Screenshot (69).png",
+        "url": "https://maneeshamahesh.com"
+      }
+    ]
+  }
+  
+}
